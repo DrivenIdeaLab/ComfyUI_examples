@@ -1,0 +1,20 @@
+repo_name: DrivenIdeaLab/ComfyUI_examples
+report_id: 5232bae1c5f37a4d3fa8589d38fae92f
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-15T17:56:14+00:00'
+requested_by: comfyanonymous
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/DrivenIdeaLab/ComfyUI_examples
+  detection_source: Repo Metadata
